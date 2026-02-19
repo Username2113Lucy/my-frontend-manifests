@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-frontend
-        image: baymax786/my-frontend:latest
+        image: baymax786/my-frontend:15
         ports:
         - containerPort: 80
